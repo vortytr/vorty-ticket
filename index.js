@@ -146,7 +146,7 @@ function buildPanelContainer() {
       new TextDisplayBuilder().setContent(
         `${E.police} Ekibimiz en kısa sürede sizinle iletişime geçecek.\n` +
         `${E.fire} ${CONFIG.serverName} — Azerbaycan'ın en iyi RP sunucusu!\n\n` +
-        `*MarvelCode ❤️ RaylexDev*`
+        `*VortyCode ❤️ vorty.dev`
       )
     )
     .addSeparatorComponents(new SeparatorBuilder().setSpacing(SeparatorSpacingSize.Small))
@@ -240,7 +240,7 @@ async function sendCloseLog(guild, ticketData, closedBy) {
           `${E.reason} **Sebep:** ${ticketData.reason}\n` +
           `${E.time} **Süre:** ${duration} dakika\n` +
           `${E.time} **Kapanış Zamanı:** <t:${Math.floor(Date.now() / 1000)}:F>\n\n` +
-          `*MarvelCode ❤️ RaylexDev*`
+          `*VortyCode ❤️ vorty.dev*`
         )
       );
       await logChannel.send({ components: [logContainer], flags: MessageFlags.IsComponentsV2 });
@@ -317,7 +317,7 @@ client.on("messageCreate", async (message) => {
       `${E.star} **Genel Komutlar:**\n` +
       `> \`.ping\` — Bot gecikmesini göster\n` +
       `> \`.yardim\` — Bu mesajı göster\n\n` +
-      `*MarvelCode ❤️ RaylexDev*`;
+      `*VortyCode ❤️ vorty.dev*`;
     return message.reply({ content: yardim });
   }
 });
@@ -497,7 +497,7 @@ client.on("interactionCreate", async (interaction) => {
           `${E.lock} **Ticket kapatıldı.**\n` +
           `Kapatan: <@${interaction.user.id}> — <t:${Math.floor(Date.now() / 1000)}:R>\n\n` +
           `${E.rp} Yeniden açmak veya silmek için aşağıdaki düğmeleri kullanın.\n\n` +
-          `*MarvelCode ❤️ RaylexDev*`
+          `*VortyCode ❤️ vorty.dev*`
         )
       )
       .addSeparatorComponents(new SeparatorBuilder().setSpacing(SeparatorSpacingSize.Small))
