@@ -190,5 +190,5 @@ MIT Lisansı — dilediğin gibi kullanabilirsin.
 ---
 
 <p align="center">
-  <b>MarvelCode ❤️ RaylexDev</b>
+  <b>VortyCode ❤️ vorty.dev</b>
 </p>
