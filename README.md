@@ -1,4 +1,4 @@
-# 🎫 Raylex Ticket Sistemi
+# 🎫 Vorty Ticket Sistemi
 
 <p align="center">
   <img src="https://img.shields.io/badge/discord.js-v14-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord.js">
