@@ -4,13 +4,14 @@
 // 🔧 AYARLAR — Kendi bilgilerini gir
 // ═══════════════════════════════════════════════
 const CONFIG = {
-  token:             "MTU2MTQ5NzE4OTQ2MzYyNTg5OQ.Gui82E.wkynH74gldFd8euqFxHfYLtqu1bONVg5ZYHGts",            // 🤖 Bot token
+  token:             "MTU2MTQ5NzE4OTQ2MzYyNTg5OQ.GFnDGt.cqoMF1lCVlk3UrMYQbABdmgKq4jEwoyIO5fgF4
+",            // 🤖 Bot token
   staffRoleId:       "1564780747284549642",        // 👮 Yetkili rol ID
   logChannelId:      "1564780636223574108",       // 📋 Log kanal ID
   ticketCategoryId:  "1564780592237781103",   // 📁 Ticket kategori ID
   archiveCategoryId: "1564780636223574108",  // 🗃️ Arşiv kategori ID
   serverName:        "Extacy Orgnaization",         // 🏙️ Sunucu adı
-  bannerUrl:         "blob:https://chatgpt.com/796b4a61-9385-495f-b544-67d370a19fb7", // 🖼️ Banner URL
+  bannerUrl:         "", // 🖼️ Banner URL
   maxTicketsPerUser: 1,                      // 🔢 Kullanıcı başı max ticket
 };
 
