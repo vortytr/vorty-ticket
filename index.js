@@ -4,13 +4,13 @@
 // 🔧 AYARLAR — Kendi bilgilerini gir
 // ═══════════════════════════════════════════════
 const CONFIG = {
-  token:             "BOT_TOKEN",            // 🤖 Bot token
-  staffRoleId:       "STAFF_ROLE_ID",        // 👮 Yetkili rol ID
-  logChannelId:      "LOG_CHANNEL_ID",       // 📋 Log kanal ID
-  ticketCategoryId:  "TICKET_CATEGORY_ID",   // 📁 Ticket kategori ID
-  archiveCategoryId: "ARCHIVE_CATEGORY_ID",  // 🗃️ Arşiv kategori ID
-  serverName:        "Aze RolePlay",         // 🏙️ Sunucu adı
-  bannerUrl:         "https://i.imgur.com/BANNER.png", // 🖼️ Banner URL
+  token:             "MTU2MTQ5NzE4OTQ2MzYyNTg5OQ.Gui82E.wkynH74gldFd8euqFxHfYLtqu1bONVg5ZYHGts",            // 🤖 Bot token
+  staffRoleId:       "1564780747284549642",        // 👮 Yetkili rol ID
+  logChannelId:      "1564780636223574108",       // 📋 Log kanal ID
+  ticketCategoryId:  "1564780592237781103",   // 📁 Ticket kategori ID
+  archiveCategoryId: "1564780636223574108",  // 🗃️ Arşiv kategori ID
+  serverName:        "Extacy Orgnaization",         // 🏙️ Sunucu adı
+  bannerUrl:         "blob:https://chatgpt.com/796b4a61-9385-495f-b544-67d370a19fb7", // 🖼️ Banner URL
   maxTicketsPerUser: 1,                      // 🔢 Kullanıcı başı max ticket
 };
 
